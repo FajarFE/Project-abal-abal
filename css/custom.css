@@ -1,0 +1,23 @@
+.navbar{
+    background-color: #9C9EFE;
+}
+.thumbnails{
+    height: 640px;
+}
+.carousel-item{
+    height: 620px;
+    
+}
+.carousel-item img{
+    height: 580px;
+}
+.carousel-bottom-costum{
+    margin-top: -153px;
+}
+.card-body {
+    padding: 0.9rem;
+}
+.card-title {
+    margin-bottom: 0.5rem;
+    margin-top: 0.5rem;
+}
